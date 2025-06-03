@@ -1,0 +1,1 @@
+print("bikal is suffering from hairloss please help him god")
